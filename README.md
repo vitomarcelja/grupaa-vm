@@ -3,4 +3,4 @@
 # SELECT b.naziv
 # FROM biljka b
 # WHERE b.vrsta = 1 AND b.cijena <= 5;
-
+# vito marcelja
